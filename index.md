@@ -2,7 +2,7 @@
 <table cellpadding="0" cellspacing="0" border="0" width="95%" >
 <tr>
 <td width="250px" >
-<img SRC="11.jpg" ALIGN="BOTTOM" BORDER="0" width="200px" >
+<img SRC="11.jpg" ALIGN="left" BORDER="0" width="200px" >
 </td>  
 Graduate Student<br>
 <A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
