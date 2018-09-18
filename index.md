@@ -5,7 +5,6 @@
 &emsp;<A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
 &emsp;<A HREF="http://www.hnu.edu.cn/">Hunan University</A><br>
 <br>
-<br>
 
 ---
 ## Address 
