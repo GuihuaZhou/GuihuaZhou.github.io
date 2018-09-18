@@ -1,9 +1,11 @@
-<img SRC="11.jpg" ALIGN="left" height="200px" width="120px" >
+<img SRC="11.jpg" ALIGN="left" height="150px" width="120px" >
 
 # &ensp;Guihua Zhou（周桂华）
 &emsp;Graduate Student<br>
 &emsp;<A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
 &emsp;<A HREF="http://www.hnu.edu.cn/">Hunan University</A><br>
+<br>
+<br>
 
 ---
 ## Address 
