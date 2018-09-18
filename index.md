@@ -1,4 +1,4 @@
-<td width="150px" >
+<td width="150px" height="150px">
 <img SRC="11.jpg" ALIGN="left" BORDER="0" width="120px" >
 </td>
 <br />
