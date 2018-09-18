@@ -1,8 +1,9 @@
 # Guihua Zhou（周桂华）
 <div align="right"><img width="100" height="120" src="11.jpg"/></div>
-Graduate Student<br /> 
-[College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/)<br /> 
-[Hunan University](http://www.hnu.edu.cn/)<br /> 
+Graduate Student<br>
+<A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
+<A HREF="http://www.hnu.edu.cn/">Hunan University</A><br>
+<br />
 
 ---
 ## Address 
