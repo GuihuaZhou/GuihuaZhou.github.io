@@ -1,4 +1,4 @@
-<img SRC="11.jpg" ALIGN="left" height="180px" width="150px" >
+<img SRC="11.jpg" ALIGN="left" height="180px" width="180px" >
 
 # &ensp;Guihua Zhou（周桂华）
 &emsp;Graduate Student<br>
