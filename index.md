@@ -12,8 +12,8 @@
 
 ---
 ## Email
-&emsp;gulagulahuli@hnu.edu.cn
-&emsp;gulagulahuli@outlook.com
+&emsp;gulagulahuli@hnu.edu.cn<br />
+&emsp;gulagulahuli@outlook.com<br />
 
 ---
 ## Self-introduction
