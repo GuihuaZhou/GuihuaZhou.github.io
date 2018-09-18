@@ -1,4 +1,6 @@
+<td width="250px" >
 <img SRC="11.jpg" ALIGN="left" BORDER="0" width="200px" >
+</td>
 # Guihua Zhou（周桂华）
 Graduate Student<br>
 <A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
