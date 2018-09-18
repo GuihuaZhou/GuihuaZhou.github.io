@@ -1,5 +1,5 @@
 # Guihua Zhou（周桂华）
-<div align="left"><img width="80" height="100" src=".jpg"/>
+<div align="left"><img width="80" height="100" src="11.jpg"/>
 
 ---
 &emsp;Graduate Student<br />
