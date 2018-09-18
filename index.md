@@ -1,5 +1,5 @@
-<td width="250px" >
-<img SRC="11.jpg" ALIGN="left" BORDER="0" width="180px" >
+<td width="150px" >
+<img SRC="11.jpg" ALIGN="left" BORDER="0" width="120px" >
 </td>
 <br />
 
