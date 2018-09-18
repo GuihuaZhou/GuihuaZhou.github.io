@@ -1,5 +1,3 @@
-# Welcome to Guihua Zhou's Page!
-
 ---
 <img SRC="11.jpg" ALIGN="left" height="150px" width="120px" >
 
