@@ -1,19 +1,10 @@
-## Welcome to Guihua Zhou's Pages
+# Welcome to Guihua Zhou's Pages
 
-//You can use the [editor on GitHub](https://github.com/GuihuaZhou/GuihuaZhou.github.io/edit/master/index.md) to maintain and preview //the content for your website in Markdown files.
+## Guihua Zhou（周桂华）
 
-//Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from //the content in your Markdown files.
-
-### Guihua Zhou（周桂华）
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Graduate Student 
+[College of Computer Science and Electronic Engineering]() 
+[Hunan University]() 
 
 - Bulleted
 - List
