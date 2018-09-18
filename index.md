@@ -4,15 +4,16 @@
 &emsp;[Hunan University](http://www.hnu.edu.cn/)<br /> 
 
 ---
-## Address: 
+## Address 
 &emsp;Room 434A, College of Computer Science and Electronic Engineering,<br />
 &emsp;Hunan University, Yuelu District,<br /> 
 &emsp;Changsha, Hunan, China,<br /> 
 &emsp;410082
 
 ---
-## Email:
+## Email
 &emsp;gulagulahuli@hnu.edu.cn
+&emsp;gulagulahuli@outlook.com
 
 ---
 ## Self-introduction
