@@ -1,6 +1,8 @@
-<img SRC="11.jpg" ALIGN="left" height="150px" width="120px" >
+# Welcome to Guihua Zhou's Page!
 
-# &ensp;Guihua Zhou（周桂华）
+---
+<img SRC="11.jpg" ALIGN="left" height="150px" width="120px" >
+## &ensp;Guihua Zhou（周桂华）
 &emsp;Graduate Student<br>
 &emsp;<A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
 &emsp;<A HREF="http://www.hnu.edu.cn/">Hunan University</A><br>
