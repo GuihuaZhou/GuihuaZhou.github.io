@@ -1,4 +1,4 @@
-## Guihua Zhou（周桂华）
+# Guihua Zhou（周桂华）
 
 ---
 Graduate Student<br />
@@ -17,4 +17,4 @@ Graduate Student<br />
 
 ---
 ### Self-introduction
-&emsp;
+&emsp; I am a graduate students at [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/)[Hunan University](http://www.hnu.edu.cn/).
