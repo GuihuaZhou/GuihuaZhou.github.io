@@ -3,7 +3,6 @@
 Graduate Student<br>
 <A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
 <A HREF="http://www.hnu.edu.cn/">Hunan University</A><br>
-<br />
 
 ---
 ## Address 
