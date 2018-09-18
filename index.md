@@ -2,8 +2,10 @@
 
 ## Guihua Zhou（周桂华）
 
-Graduate Student 
-[College of Computer Science and Electronic Engineering]() 
+Graduate Student
+
+[College of Computer Science and Electronic Engineering]()
+
 [Hunan University]() 
 
 - Bulleted
