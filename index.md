@@ -4,25 +4,10 @@
 [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/)
 [Hunan University](http://www.hnu.edu.cn/) 
 
-Address: 
+### Address: 
 Room 434A, College of Computer Science and Electronic Engineering,
 Hunan University, Yuelu District, 
 Changsha, Hunan, China, 
 410082
 
-Email:gulagulahuli@hnu.edu.cn
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuihuaZhou/GuihuaZhou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Email:gulagulahuli@hnu.edu.cn
