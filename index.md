@@ -1,11 +1,7 @@
-# Welcome to Guihua Zhou's Pages
-
 ## Guihua Zhou（周桂华）
 
-Graduate Student
-
+###Graduate Student
 [College of Computer Science and Electronic Engineering]()
-
 [Hunan University]() 
 
 - Bulleted
