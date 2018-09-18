@@ -20,7 +20,7 @@
 
 ---
 ## Self-introduction
-&emsp;I am a graduate students at [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/)[Hunan University](http://www.hnu.edu.cn/).
+&emsp;I am a graduate students at [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/),[Hunan University](http://www.hnu.edu.cn/).
 
 ---
 ## Research Interest
