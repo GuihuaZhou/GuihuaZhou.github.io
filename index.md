@@ -11,7 +11,8 @@
 &emsp;410082
 
 ---
-## Email:gulagulahuli@hnu.edu.cn
+## Email:
+gulagulahuli@hnu.edu.cn
 
 ---
 ## Self-introduction
