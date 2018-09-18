@@ -1,8 +1,8 @@
 ## Guihua Zhou（周桂华）
 
 ###Graduate Student
-[College of Computer Science and Electronic Engineering]()
-[Hunan University]() 
+[College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/)
+[Hunan University](http://www.hnu.edu.cn/) 
 
 Address: 
 Room 434A, College of Computer Science and Electronic Engineering,
@@ -11,12 +11,6 @@ Changsha, Hunan, China,
 410082
 
 Email:gulagulahuli@hnu.edu.cn
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
