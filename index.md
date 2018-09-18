@@ -1,7 +1,4 @@
-<td width="150px" height="150px">
-<img SRC="11.jpg" ALIGN="left" BORDER="0" width="120px" >
-</td>
-<br />
+<img SRC="11.jpg" ALIGN="left" height="100px" width="120px" >
 
 # &ensp;Guihua Zhou（周桂华）
 &emsp;Graduate Student<br>
