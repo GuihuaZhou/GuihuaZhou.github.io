@@ -1,4 +1,4 @@
-# Guihua Zhou（周桂华）<br />
+# Guihua Zhou（周桂华）
 &emsp;Graduate Student<br />
 &emsp;[College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/)<br />
 &emsp;[Hunan University](http://www.hnu.edu.cn/)<br /> 
